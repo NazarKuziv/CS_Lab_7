@@ -1,0 +1,8 @@
+D:\ddpu\ООП\C#\лаб\CS_Lab_7\bin\Debug\CS_Lab_7.exe.config
+D:\ddpu\ООП\C#\лаб\CS_Lab_7\bin\Debug\CS_Lab_7.exe
+D:\ddpu\ООП\C#\лаб\CS_Lab_7\bin\Debug\CS_Lab_7.pdb
+D:\ddpu\ООП\C#\лаб\CS_Lab_7\obj\Debug\CS_Lab_7.csproj.AssemblyReference.cache
+D:\ddpu\ООП\C#\лаб\CS_Lab_7\obj\Debug\CS_Lab_7.csproj.SuggestedBindingRedirects.cache
+D:\ddpu\ООП\C#\лаб\CS_Lab_7\obj\Debug\CS_Lab_7.csproj.CoreCompileInputs.cache
+D:\ddpu\ООП\C#\лаб\CS_Lab_7\obj\Debug\CS_Lab_7.exe
+D:\ddpu\ООП\C#\лаб\CS_Lab_7\obj\Debug\CS_Lab_7.pdb
